@@ -7,17 +7,17 @@ The five variables that were examined were gender, whether or not the students h
 ## Methods
 The following statistical and analytical methods were used:
 
-    Descriptive statistics and frequency distributions
+Descriptive statistics and frequency distributions
+
+Data aggregation and group comparisons
     
-    Data aggregation and group comparisons
+Histograms, boxplots, bar charts, and scatterplots
     
-    Histograms, boxplots, bar charts, and scatterplots
+Random sampling
     
-    Random sampling
+Confidence interval estimation
     
-    Confidence interval estimation
-    
-    Linear trend analysis
+Linear trend analysis
 
 ## Key Findings
 The average height of students was approximately 67.03 inches.
@@ -27,21 +27,11 @@ A weak negative linear trend was observed between student height and the number 
 The 95% confidence interval for mean student height, based on a sample of 60 students, was approximately 66.27 to 68.17 inches.
 
 ## Files
-Student_Demographic_Analysis.ipynb
-
-    Python code
-
+Student_Demographic_Analysis.ipynb - Python code
     
-Student_Demographic_Analysis.pdf
+Student_Demographic_Analysis.pdf - Complete written analysis
 
-    Complete written analysis
-
-    
-pennstate21.xlsx
-
-    Dataset
-
-
+pennstate21.xlsx - Dataset
 
 ## Author
 Lilly Jones
