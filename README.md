@@ -6,11 +6,17 @@ The five variables that were examined were gender, whether or not the students h
 
 ## Methods
 The following statistical and analytical methods were used:
+
     Descriptive statistics and frequency distributions
+    
     Data aggregation and group comparisons
+    
     Histograms, boxplots, bar charts, and scatterplots
+    
     Random sampling
+    
     Confidence interval estimation
+    
     Linear trend analysis
 
 ## Key Findings
@@ -22,11 +28,20 @@ The 95% confidence interval for mean student height, based on a sample of 60 stu
 
 ## Files
 Student_Demographic_Analysis.ipynb
+
     Python code
+
+    
 Student_Demographic_Analysis.pdf
+
     Complete written analysis
+
+    
 pennstate21.xlsx
+
     Dataset
+
+
 
 ## Author
 Lilly Jones
