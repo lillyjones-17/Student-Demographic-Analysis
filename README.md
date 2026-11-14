@@ -27,9 +27,9 @@ A weak negative linear trend was observed between student height and the number 
 The 95% confidence interval for mean student height, based on a sample of 60 students, was approximately 66.27 to 68.17 inches.
 
 ## Files
-Student_Demographic_Analysis.ipynb - Python code
+Student Demographic Analysis.ipynb - Python code
     
-Student_Demographic_Analysis.pdf - Complete written analysis
+Student Demographic Analysis.pdf - Complete written analysis
 
 pennstate21.xlsx - Dataset
 
